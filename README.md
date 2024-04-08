@@ -18,4 +18,4 @@ Note that they should be attached with the exact same names.
 After running you will receive a password (the password contains 4 numbers separated by ".") and a url address.
 Go to the url address you received, enter the password you received and click on the "click to submit" button.
 This will run the site.
-The commands in the jupyter/colab notebook must remain running as long as you use the site.
+The commands in the jupyter/colab notebook have to remain running as long as you use the site.
