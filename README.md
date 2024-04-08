@@ -2,8 +2,11 @@
 submitters - Omri Savir, Marina Kletselman, Tomer Hod
 
 In order to run the system, you should open jupyter/colab notebook and write the following code:
+
 ! pip install streamlit -q
+
 !wget -q -O - ipv4.icanhazip.com
+
 ! streamlit run site.py & npx localtunnel --port 8501
 
 Link to colab file with this code:
